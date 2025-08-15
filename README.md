@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner]([https://i.imgur.com/qS3l3sP.png](https://github.com/user-attachments/assets/e88e92cf-f812-4029-b2ca-5a3e602dce97)) <!-- Thay bằng banner cá nhân nếu muốn -->
+![Banner](https://i.imgur.com/qS3l3sP.png) <!-- Thay bằng banner cá nhân nếu muốn -->
 
 # 👋 Hi there, I'm **Nguyễn Văn Nhân**  
 
