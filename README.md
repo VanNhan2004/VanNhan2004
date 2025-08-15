@@ -56,9 +56,6 @@
 
 ## 📫 Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vannhannguyen1409@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com) <!-- Thay bằng LinkedIn nếu có -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://yourportfolio.com) <!-- Thay bằng link website cá nhân nếu có -->
-
 ---
 
 ⭐ *"Nothing is impossible if you keep learning and building"*  
