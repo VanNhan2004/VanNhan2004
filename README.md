@@ -5,15 +5,15 @@
 # 👋 Hi there, I'm **Nguyễn Văn Nhân**  
 
 🎓 **Student** at Nguyễn Tất Thành University  
-💻 Passionate about **Data Science**, **Machine Learning**, and **Big Data**  
+💻 Passionate about **Data Science**, **Machine Learning**, **NLP**, and **Generative AI**  
 🚀 Always learning and building projects to sharpen my skills  
 
 ---
 
 ## 🧑‍💻 About Me
-- 🌱 Currently exploring: **Deep Learning** and **Big Data Processing with Hadoop**
-- 🗄️ Strong in **SQL** and data management
-- 🧠 Interested in solving real-world problems using AI
+- 🌱 Currently exploring: **Deep Learning**, **NLP**, **Generative AI (GenAI)** and **Large Language Models (LLM)**  
+- 🗄️ Strong in **SQL** and data management  
+- 🧠 Interested in solving real-world problems using AI  
 - 📍 Based in **Ho Chi Minh City, Vietnam**
 
 ---
@@ -28,9 +28,9 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF0000?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Big Data:**  
-![Hadoop](https://img.shields.io/badge/Hadoop-FFCA28?style=for-the-badge&logo=apache&logoColor=black)
+![NLP](https://img.shields.io/badge/NLP-1E88E5?style=for-the-badge&logo=spacy&logoColor=white)
+![Generative AI](https://img.shields.io/badge/GenAI-9C27B0?style=for-the-badge&logo=openai&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-673AB7?style=for-the-badge&logo=transformer&logoColor=white)
 
 **Tools & Platforms:**  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -44,7 +44,7 @@
 | **Stock Price Prediction** | Predict stock prices using ARIMA & GARCH models | Python, Pandas, Statsmodels |
 | **Mask Detection** | Detect whether a person is wearing a mask | Python, OpenCV, Deep Learning |
 | **Vehicle Counting** | Count vehicles using YOLOv11 & Deep SORT | Python, YOLO, OpenCV |
-| **Big Data Log Analysis** | Analyze website logs with Hadoop MapReduce | Python, Hadoop |
+| **Chatbot with LLM** | Build a smart chatbot using Large Language Models (LLM) | Python, NLP, GenAI |
 
 ---
 
